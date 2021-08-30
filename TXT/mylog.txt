@@ -10,4 +10,4 @@ ZCZC W00 15 L14 Assignment #04 : Course Registration
 ZCZC W00 45 L14 Assignment #05 : Reading "What defines Operating System?"
 ZCZC W00 05 L01 Joining OS Discord Server
 ZCZC W00 100 L02 WEEK 00 OS ZOOM meetings
-ZCZC W00 30 L04 Improving my github page
+ZCZC W00 30 L04 Improving my Github page
