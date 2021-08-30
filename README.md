@@ -1,6 +1,7 @@
 # 🤗~ HELLO WELCOME ~🤗
-## MY NAME IS MOHAMMAD BRYAN MAHDAVIKHIA, YOU CAN CALL ME BRYAN
+## MY NAME IS MOHAMMAD BRYAN MAHDAVIKHIA, YOU CAN CALL ME BRYAN<br>
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ### Let's Explore ✈
 ⭐ [repositories](https://github.com/bryanmahdavikhia?tab=repositories)<br>
-⭐ [logs](https://github.com/bryanmahdavikhia/os212/blob/master/TXT/testlog.txt)
+⭐ [logs](https://github.com/bryanmahdavikhia/os212/blob/master/TXT/mylog.txt)
