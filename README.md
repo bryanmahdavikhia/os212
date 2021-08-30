@@ -1,5 +1,6 @@
 # 🤗~ HELLO WELCOME ~🤗
-## MY NAME IS MOHAMMAD BRYAN MAHDAVIKHIA, YOU CAN CALL ME BRYAN
+## My name is Mohammad Bryan Mahdavikhia<br>
+you can call me Bryan 😉
 
 ### Let's Explore ✈
 ⭐ [repositories](https://github.com/bryanmahdavikhia?tab=repositories)<br>
