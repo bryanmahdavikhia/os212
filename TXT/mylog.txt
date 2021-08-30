@@ -1,10 +1,13 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 15 L06 References/Books/Documents/GSGS related
-ZCZC W00 10 L11 Assignment #01
-ZCZC W00 10 L12 Assignment #02
-ZCZC W00 15 L13 Assignment #03
-ZCZC W00 15 L14 Assignment #04
-ZCZC W00 45 L14 Assignment #05
-ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 15 L06 Reading some references about Github
+ZCZC W00 05 L03 Creating my own Github
+ZCZC W00 05 L11 Assignment #01 : Creating Public Repository
+ZCZC W00 05 L12 Assignment #02 : Creating my log
+ZCZC W00 05 L13 Assignment #03 : Creating my Github Page
+ZCZC W00 15 L14 Assignment #04 : Course Registration
+ZCZC W00 45 L14 Assignment #05 : Reading "What defines Operating System?"
+ZCZC W00 05 L01 Joining OS Discord Server
+ZCZC W00 100 L02 WEEK 00 OS ZOOM meetings
+ZCZC W00 30 L04 Improving my github page
