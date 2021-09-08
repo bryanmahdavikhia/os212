@@ -11,3 +11,11 @@ ZCZC W00 45 L14 Assignment #05 : Reading "What defines Operating System?"
 ZCZC W00 05 L01 Joining OS Discord Server
 ZCZC W00 100 L02 WEEK 00 OS ZOOM meetings
 ZCZC W00 30 L04 Improving my Github page
+ZCZC W00 05 L22 Quiz 1 WEEK 00
+
+ZCZC W01 100 L02 WEEK 01 OS ZOOM meetings
+ZCZC W01 30 L06 Reading OS WEEK 01 Slide for do the assignment
+ZCZC W01 05 L31 Installing VirtualBox
+ZCZC W01 30 L11 Assignment #01 : VirtualBox Guest Preparation
+ZCZC W01 90 L12 Assignment #02 : Importing or Installing?
+ZCZC W01 30 L64 Helping OS related problem to a friend.
