@@ -19,3 +19,8 @@ ZCZC W01 05 L31 Installing VirtualBox
 ZCZC W01 30 L11 Assignment #01 : VirtualBox Guest Preparation
 ZCZC W01 90 L12 Assignment #02 : Importing or Installing?
 ZCZC W01 30 L64 Helping OS related problem to a friend.
+ZCZC W01 30 L06 Reading OS WEEK 01 Slide for do the assignment
+ZCZC W01 30 L13 Assignment #03 : Learn some essential commands
+ZCZC W01 45 L14 Assignment #04 : Dress up your virtual guest
+ZCZC W01 45 L15 Assignment #05 : SSH Keys and Git Cloning
+ZCZC W01 30 L64 Helping OS related problem to a friend.
