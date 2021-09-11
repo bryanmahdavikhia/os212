@@ -26,9 +26,9 @@ ZCZC W01 45 L15 Assignment #05 : SSH Keys and Git Cloning
 ZCZC W01 30 L64 Helping OS related problem to a friend.
 ZCZC W01 45 L16 Assignment #06 : Dress Up My GitHub Page (add top links for os)
 ZCZC W01 15 L04 Improving my Github page
-ZCZC W01 30 L17 Assignment #07 : Updating mylog with pull add commit push command
+ZCZC W01 10 L17 Assignment #07 : Updating mylog with pull add commit push command
 ZCZC W01 30 L18 Assignment #08 : bash, regex, sed, and awk
-ZCZC W01 30 L19 Assignment #09 : Read OSC 10
+ZCZC W01 25 L19 Assignment #09 : Read OSC 10
 ZCZC W01 30 L64 Helping OS related problem to a friend.
 
 
