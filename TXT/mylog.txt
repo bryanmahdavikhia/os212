@@ -7,7 +7,7 @@ ZCZC W00 05 L11 Assignment #01 : Creating Public Repository
 ZCZC W00 05 L12 Assignment #02 : Creating my log
 ZCZC W00 05 L13 Assignment #03 : Creating my Github Page
 ZCZC W00 15 L14 Assignment #04 : Course Registration
-ZCZC W00 45 L14 Assignment #05 : Reading "What defines Operating System?"
+ZCZC W00 45 L15 Assignment #05 : Reading "What defines Operating System?"
 ZCZC W00 05 L01 Joining OS Discord Server
 ZCZC W00 100 L02 WEEK 00 OS ZOOM meetings
 ZCZC W00 30 L04 Improving my Github page
@@ -24,3 +24,6 @@ ZCZC W01 30 L13 Assignment #03 : Learn some essential commands
 ZCZC W01 45 L14 Assignment #04 : Dress up your virtual guest
 ZCZC W01 45 L15 Assignment #05 : SSH Keys and Git Cloning
 ZCZC W01 30 L64 Helping OS related problem to a friend.
+ZCZC W01 45 L16 Assignment #06 : Dress Up My GitHub Page (add top links for os)
+ZCZC W01 30 L17 Assignment #07 : Updating mylog with pull add commit push command
+
