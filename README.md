@@ -6,5 +6,5 @@ Operation Systems 2021-1
 
 ### Let's Explore ✈
 ⭐ [repositories](https://github.com/bryanmahdavikhia?tab=repositories)<br>
-⭐ [logs](https://github.com/bryanmahdavikhia/os212/blob/master/TXT/mylog.txt)<br>
-⭐ [links](https://github.com/bryanmahdavikhia/os212/blob/master/links.md)
+⭐ [logs](https://bryanmahdavikhia.github.io/os212//TXT/mylog.txt)<br>
+⭐ [links](https://bryanmahdavikhia.github.io/os212/LINKS/)
