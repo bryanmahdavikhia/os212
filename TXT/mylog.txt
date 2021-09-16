@@ -36,4 +36,4 @@ ZCZC W02 20 L22 Quiz 2 WEEK 01
 ZCZC W02 100 L02 WEEK 02 OS ZOOM meetings
 ZCZC W02 15 L04 Improving my Github page
 ZCZC W02 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
-ZCZC W02 30 L06 Reading OS WEEK 01 Slide for do the assignment
+ZCZC W02 30 L06 Reading OS WEEK 02 Slide for do the assignment
