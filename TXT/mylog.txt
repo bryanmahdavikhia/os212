@@ -11,7 +11,6 @@ ZCZC W00 45 L15 Assignment #05 : Reading "What defines Operating System?"
 ZCZC W00 05 L01 Joining OS Discord Server
 ZCZC W00 100 L02 WEEK 00 OS ZOOM meetings
 ZCZC W00 30 L04 Improving my Github page
-
 ZCZC W01 05 L22 Quiz 1 WEEK 00
 ZCZC W01 100 L02 WEEK 01 OS ZOOM meetings
 ZCZC W01 30 L06 Reading OS WEEK 01 Slide for do the assignment
@@ -32,4 +31,9 @@ ZCZC W01 30 L18 Assignment #08 : bash, regex, sed, and awk
 ZCZC W01 25 L19 Assignment #09 : Read OSC 10
 ZCZC W01 30 L64 Helping OS related problem to a friend.
 
-
+ZCZC W02 40 L06 OS WEEK 01 Slides
+ZCZC W02 20 L22 Quiz 2 WEEK 01
+ZCZC W02 100 L02 WEEK 02 OS ZOOM meetings
+ZCZC W02 15 L04 Improving my Github page
+ZCZC W02 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
+ZCZC W02 30 L06 Reading OS WEEK 01 Slide for do the assignment
