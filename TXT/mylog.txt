@@ -37,3 +37,16 @@ ZCZC W02 100 L02 WEEK 02 OS ZOOM meetings
 ZCZC W02 15 L04 Improving my Github page
 ZCZC W02 40 L02 WEEK 02 OS ZOOM meetings (QnA sessions)
 ZCZC W02 30 L06 Reading OS WEEK 02 Slide for do the assignment
+ZCZC W02 200 L09 WEEK 02 Assignment No 1 Read OSC10 chapter 16 and 17
+ZCZC W02 90 L09 WEEK 02 Assignment No 2 Try Demos
+ZCZC W02 240 L09 WEEK 02 Assignment No 3 Watch: Cyber Security Introduction part 1 and the begining of part 2
+ZCZC W02 10 L09 WEEK 02 Assignment No 4 Generate a GnuPG Key Pair
+ZCZC W02 10 L09 WEEK 02 Assignment No 5 List of all GnuPG Key 
+ZCZC W02 10 L09 WEEK 02 Assignment No 6 Importing ospubkey.txt 
+ZCZC W02 10 L09 WEEK 02 Assignment No 7 Signing the Operating Systems public key
+ZCZC W02 10 L09 WEEK 02 Assignment No 8 Export mypubkey.txt
+ZCZC W02 10 L09 WEEK 02 Assignment No 9 Updating my LINKS
+ZCZC W02 20 L09 WEEK 02 Assignment No 10 Review peer links and make myrank.txt
+ZCZC W02 10 L09 WEEK 02 Assignment No 11 Make myscript.sh
+ZCZC W02 15 L09 WEEK 02 Assignment No 12 Updating mylog.tx
+ZCZC W02 10 L09 WEEK 02 Assignment No 13 Write a simple "myscript.sh" script to generate SHA256SUM and SHA256SUM.asc.
