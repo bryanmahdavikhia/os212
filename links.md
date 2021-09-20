@@ -26,3 +26,10 @@ Kita harus mengetahui tentang C language pada mata kuliah sistem operasi.<br>Pad
 
 ### 7. [The Important of Cyber Security](https://serch15.biz/?p=ge2dmnbugy5gi3bpgqydamy&sub1=676767677h67fgfgfjh67)
 Pada web ini dijelaskan apasih itu cyber security, apa saja elemen yang ada di cyber security, mengapa cyber security itu penting, dan jenis - jenis cyber security.<br>Setelah membaca web ini saya jadi lebih aware akan mengapa kita harus mengerti tentang cyber security karena web ini lengkap namun padat.
+
+## WEEK 03
+### 8. [File System in Operating System](https://www.guru99.com/file-systems-operating-system.html)
+File System di matkul OS ini sangat berkaitan karena kita akan selalu mengakses file.<br>Pada web ini File System dijelaskan dengan sangat lengkap bahkan ada banyak link jika ingin lebih detailnya. Web ini membuat saya lebih tahu lagi tentang file system.
+
+### 9. [Linux File Hierarchy](https://www.w3spoint.com/linux-file-hierarchy-structure)
+Pada Web ini dijelaskan File Hierarchy Linux dengan lengkap dan lumayan detail.<br>Karena web ini saya lebih mengerti tentang file hierarchy dan cara menerapkannya.
