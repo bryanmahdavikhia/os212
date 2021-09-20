@@ -52,5 +52,3 @@ ZCZC W02 10 L09 WEEK 02 Assignment No 13 Write a simple "myscript.sh" script to 
 
 ZCZC W03 20 L22 Quiz 3 WEEK 02
 ZCZC W03 100 L02 WEEK 02 OS ZOOM meetings
-ZCZC W03 60 L09 Assignment in General: WEEK 03 Assignment
-
