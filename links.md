@@ -33,3 +33,13 @@ File System di matkul OS ini sangat berkaitan karena kita akan selalu mengakses 
 
 ### 9. [Linux File Hierarchy](https://www.w3spoint.com/linux-file-hierarchy-structure)
 Pada Web ini dijelaskan File Hierarchy Linux dengan lengkap dan lumayan detail.<br>Karena web ini saya lebih mengerti tentang file hierarchy dan cara menerapkannya.
+
+## WEEK 02
+### 10. [Linux Shared Libraries](https://www.tecmint.com/understanding-shared-libraries-in-linux/)
+Pada OS ini kita perlu mengerti tentang linux libraries terutama shared libraries.<br>Pada web ini dijelaskan apasih itu shared libraries pada linux.<br>Dari web ini saya jadi lebih mengerti tentang shared libraries di linux
+
+### 11. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+Pada link ini dijelaskan apa itu logical dan physical address pada operating system.<br>Di link ini juga digambarkan dengan chart jadi lebih jelas.<br>Dari link ini saya lebih mengerti apa itu logical dan physical address pada operating system.
+
+### 12. [Paging in Operating System](https://www.youtube.com/watch?v=6c-mOFZwP_8)
+Link ini adalah video di youtube. menurut saya waktu mempelajari tentang paging<br>video ini sangat berguna. Tadinya saya baca - baca banyak web masih bingung.<br>Video ini sangat rekomen bagi kalian yang masih bingung paging pada operating system.
