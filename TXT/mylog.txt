@@ -49,7 +49,6 @@ ZCZC W02 20 L09 WEEK 02 Assignment No 10 Review peer links and make myrank.txt
 ZCZC W02 10 L09 WEEK 02 Assignment No 11 Make myscript.sh
 ZCZC W02 15 L09 WEEK 02 Assignment No 12 Updating mylog.tx
 ZCZC W02 10 L09 WEEK 02 Assignment No 13 Write a simple "myscript.sh" script to generate SHA256SUM and SHA256SUM.asc.
-
 ZCZC W03 20 L22 Quiz 3 WEEK 02
 ZCZC W03 100 L02 WEEK 03 OS ZOOM meetings
 ZCZC W03 120 L09 WEEK 03 Assignment No 1 Read OSC10 chapter 13, 14, 15
@@ -63,3 +62,18 @@ ZCZC W03 10 L09 WEEK 03 Assignment No 7 Review peer links
 ZCZC W03 10 L09 WEEK 03 Assignment No 8 Updated mylog.txt
 ZCZC W03 10 L09 WEEK 03 Assignment No 9 Submin WEEK 03 Assignment
 ZCZC W03 30 L64 Helping OS related problem to a friend
+
+ZCZC W04 20 L22 Quiz 4 WEEK 03
+ZCZC W04 100 L02 WEEK 04 OS ZOOM meetings
+ZCZC W04 120 L09 WEEK 04 Assignment No 1 Read OSC10 chapter 09
+ZCZC W04 90 L09 WEEK 04 Assignment No 2 Try Demos
+ZCZC W04 60 L09 WEEK 04 Assignment No 3 Try MidTerm Problems
+ZCZC W04 10 L09 WEEK 04 Assignment No 4 Install Package List 2 (TLPI)
+ZCZC W04 30 L09 WEEK 04 Assignment No 5 Fetch and Extract File "WEEK04.tar.bz2.asc"
+ZCZC W04 15 L09 WEEK 04 Assignment No 6 Update bookmarks links
+ZCZC W04 05 L04 Improving GitHub Pages
+ZCZC W02 40 L02 WEEK 04 OS ZOOM meetings (QnA sessions)
+ZCZC W04 10 L09 WEEK 04 Assignment No 7 Review peer links
+ZCZC W04 10 L09 WEEK 04 Assignment No 8 Updated mylog.txt
+ZCZC W04 10 L09 WEEK 04 Assignment No 9 Submit WEEK 04 Assignment
+ZCZC W04 30 L64 Helping OS related problem to a friend
