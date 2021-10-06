@@ -34,7 +34,7 @@ File System di matkul OS ini sangat berkaitan karena kita akan selalu mengakses 
 ### 9. [Linux File Hierarchy](https://www.w3spoint.com/linux-file-hierarchy-structure)
 Pada Web ini dijelaskan File Hierarchy Linux dengan lengkap dan lumayan detail.<br>Karena web ini saya lebih mengerti tentang file hierarchy dan cara menerapkannya.
 
-## WEEK 02
+## WEEK 04
 ### 10. [Linux Shared Libraries](https://www.tecmint.com/understanding-shared-libraries-in-linux/)
 Pada OS ini kita perlu mengerti tentang linux libraries terutama shared libraries.<br>Pada web ini dijelaskan apasih itu shared libraries pada linux.<br>Dari web ini saya jadi lebih mengerti tentang shared libraries di linux
 
