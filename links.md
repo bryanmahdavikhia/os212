@@ -43,3 +43,7 @@ Pada link ini dijelaskan apa itu logical dan physical address pada operating sys
 
 ### 12. [Paging in Operating System](https://www.youtube.com/watch?v=6c-mOFZwP_8)
 Link ini adalah video di youtube. menurut saya waktu mempelajari tentang paging<br>video ini sangat berguna. Tadinya saya baca - baca banyak web masih bingung.<br>Video ini sangat rekomen bagi kalian yang masih bingung paging pada operating system.
+
+## WEEK 05
+### 13. [What Is Virtual Memory](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)
+Link ini mengajarkan saya tentang virtual memory. tadinya saya lumayan bingung apasih<br> virtual memory itu dan apasih fungsinya. setelah membaca web ini<br>saya lebih menegerti apa itu virtual memory, fungsi virtual memory, dan cara menggunakannya
