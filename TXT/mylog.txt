@@ -62,7 +62,6 @@ ZCZC W03 10 L09 WEEK 03 Assignment No 7 Review peer links
 ZCZC W03 10 L09 WEEK 03 Assignment No 8 Updated mylog.txt
 ZCZC W03 10 L09 WEEK 03 Assignment No 9 Submin WEEK 03 Assignment
 ZCZC W03 30 L64 Helping OS related problem to a friend
-
 ZCZC W04 20 L22 Quiz 4 WEEK 03
 ZCZC W04 100 L02 WEEK 04 OS ZOOM meetings
 ZCZC W04 120 L09 WEEK 04 Assignment No 1 Read OSC10 chapter 09
@@ -72,8 +71,23 @@ ZCZC W04 10 L09 WEEK 04 Assignment No 4 Install Package List 2 (TLPI)
 ZCZC W04 30 L09 WEEK 04 Assignment No 5 Fetch and Extract File "WEEK04.tar.bz2.asc"
 ZCZC W04 15 L09 WEEK 04 Assignment No 6 Update bookmarks links
 ZCZC W04 05 L04 Improving GitHub Pages
-ZCZC W02 40 L02 WEEK 04 OS ZOOM meetings (QnA sessions)
+ZCZC W04 40 L02 WEEK 04 OS ZOOM meetings (QnA sessions)
 ZCZC W04 10 L09 WEEK 04 Assignment No 7 Review peer links
 ZCZC W04 10 L09 WEEK 04 Assignment No 8 Updated mylog.txt
 ZCZC W04 10 L09 WEEK 04 Assignment No 9 Submit WEEK 04 Assignment
 ZCZC W04 30 L64 Helping OS related problem to a friend
+
+ZCZC W05 20 L22 Quiz 5 WEEK 04
+ZCZC W05 100 L02 WEEK 05 OS ZOOM meetings
+ZCZC W05 100 L09 WEEK 05 Assignment No 1 Read OSC10 chapter 10
+ZCZC W05 90 L09 WEEK 05 Assignment No 2 Try Demos
+ZCZC W05 60 L09 WEEK 05 Assignment No 3 Try MidTerm Problems
+ZCZC W05 10 L09 WEEK 05 Assignment No 4 How Low memory can you go?
+ZCZC W05 10 L09 WEEK 05 Assignment No 5 Update bookmarks links
+ZCZC W05 10 L09 WEEK 05 Assignment No 6 Add tips and tricks for next semester student
+ZCZC W05 05 L04 Improving GitHub Pages
+ZCZC W05 10 L09 WEEK 05 Assignment No 7 Review peer links
+ZCZC W05 10 L09 WEEK 05 Assignment No 8 Updated mylog.txt
+ZCZC W05 40 L02 WEEK 05 OS ZOOM meetings (QnA sessions)
+ZCZC W05 10 L09 WEEK 05 Assignment No 9 Submit WEEK 05 Assignment
+ZCZC W05 30 L64 Helping OS related problem to a friend
