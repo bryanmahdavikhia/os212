@@ -47,3 +47,7 @@ Link ini adalah video di youtube. menurut saya waktu mempelajari tentang paging<
 ## WEEK 05
 ### 13. [What Is Virtual Memory](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986)
 Link ini mengajarkan saya tentang virtual memory. tadinya saya lumayan bingung apasih<br> virtual memory itu dan apasih fungsinya. setelah membaca web ini<br>saya lebih menegerti apa itu virtual memory, fungsi virtual memory, dan cara menggunakannya
+
+## WEEK 06
+### 14. [What is Interprocess Communication?](https://www.tutorialspoint.com/what-is-interprocess-communication)
+Pada minggu ini kita harus mengerti tentang interprocess communication. Pada link ini dijelaskan<br>apa itu interprocess communication dengan padat dan jelas. Setelah membacanya<br>saya paham apa itu interprocess communication pada operating system
