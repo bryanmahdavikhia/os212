@@ -90,7 +90,6 @@ ZCZC W05 10 L09 WEEK 05 Assignment No 8 Updated mylog.txt
 ZCZC W05 40 L02 WEEK 05 OS ZOOM meetings (QnA sessions)
 ZCZC W05 10 L09 WEEK 05 Assignment No 9 Submit WEEK 05 Assignment
 ZCZC W05 30 L64 Helping OS related problem to a friend
-
 ZCZC W06 20 L22 Quiz 6 WEEK 05
 ZCZC W06 100 L02 WEEK 06 OS ZOOM meetings
 ZCZC W06 100 L09 WEEK 06 Assignment No 1 Read OSC10 chapter 3 and 4
