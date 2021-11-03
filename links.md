@@ -51,3 +51,7 @@ Link ini mengajarkan saya tentang virtual memory. tadinya saya lumayan bingung a
 ## WEEK 06
 ### 14. [What is Interprocess Communication?](https://www.tutorialspoint.com/what-is-interprocess-communication)
 Pada minggu ini kita harus mengerti tentang interprocess communication. Pada link ini dijelaskan<br>apa itu interprocess communication dengan padat dan jelas. Setelah membacanya<br>saya paham apa itu interprocess communication pada operating system
+
+## WEEK 07
+### 15. [Introduction of Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Pada minggu ini kita belajar tentang Synchronization & Deadlock pada Operating System. Link ini menjelaskan tentang<br>Introduction of Deadlock in Operating System. Jadi, untuk memulai minggu ini saya membaca ini dulu.
