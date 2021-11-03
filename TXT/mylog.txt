@@ -102,5 +102,19 @@ ZCZC W06 05 L04 Improving GitHub Pages
 ZCZC W06 10 L09 WEEK 06 Assignment No 7 Review peer links
 ZCZC W06 10 L09 WEEK 06 Assignment No 8 Updated mylog.txt
 ZCZC W06 40 L02 WEEK 06 OS ZOOM meetings (QnA sessions)
-ZCZC W06 10 L09 WEEK 06 Assignment No 9 Submit WEEK 05 Assignment
+ZCZC W06 10 L09 WEEK 06 Assignment No 9 Submit WEEK 06 Assignment
 ZCZC W06 30 L64 Helping OS related problem to a friend
+
+ZCZC W07 20 L22 Quiz 7 WEEK 06
+ZCZC W07 100 L02 WEEK 07 OS ZOOM meetings
+ZCZC W07 100 L09 WEEK 07 Assignment No 1 Read OSC10 chapter 6, 7, 8
+ZCZC W07 90 L09 WEEK 07 Assignment No 2 Try Demos
+ZCZC W07 60 L09 WEEK 07 Assignment No 3 Try MidTerm Problems
+ZCZC W07 10 L09 WEEK 07 Assignment No 4 Synchronization and Shared Memory
+ZCZC W07 05 L09 WEEK 07 Assignment No 5 Update bookmarks links
+ZCZC W07 05 L04 Improving GitHub Pages
+ZCZC W07 10 L09 WEEK 07 Assignment No 7 Review peer links
+ZCZC W07 10 L09 WEEK 07 Assignment No 8 Updated mylog.txt
+ZCZC W07 40 L02 WEEK 07 OS ZOOM meetings (QnA sessions)
+ZCZC W07 10 L09 WEEK 07 Assignment No 9 Submit WEEK 07 Assignment
+ZCZC W07 30 L64 Helping OS related problem to a friend
