@@ -55,3 +55,7 @@ Pada minggu ini kita harus mengerti tentang interprocess communication. Pada lin
 ## WEEK 07
 ### 15. [Introduction of Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 Pada minggu ini kita belajar tentang Synchronization & Deadlock pada Operating System. Link ini menjelaskan tentang<br>Introduction of Deadlock in Operating System. Jadi, untuk memulai minggu ini saya membaca ini dulu.
+
+## WEEK 08
+### 16. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html)
+Pada minggu ini kita belajar tentang CPU Scheduling. Link ini menjelaskan tentang CPU Scheduling secara lengkap<br>dan padat. Menurut saya link ini sangat berguna untuk memahami CPU Scheduling
