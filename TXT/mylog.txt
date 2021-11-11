@@ -103,7 +103,6 @@ ZCZC W06 10 L09 WEEK 06 Assignment No 8 Updated mylog.txt
 ZCZC W06 40 L02 WEEK 06 OS ZOOM meetings (QnA sessions)
 ZCZC W06 10 L09 WEEK 06 Assignment No 9 Submit WEEK 06 Assignment
 ZCZC W06 30 L64 Helping OS related problem to a friend
-
 ZCZC W07 20 L22 Quiz 7 WEEK 06
 ZCZC W07 100 L02 WEEK 07 OS ZOOM meetings
 ZCZC W07 100 L09 WEEK 07 Assignment No 1 Read OSC10 chapter 6, 7, 8
@@ -117,3 +116,18 @@ ZCZC W07 10 L09 WEEK 07 Assignment No 8 Updated mylog.txt
 ZCZC W07 40 L02 WEEK 07 OS ZOOM meetings (QnA sessions)
 ZCZC W07 10 L09 WEEK 07 Assignment No 9 Submit WEEK 07 Assignment
 ZCZC W07 30 L64 Helping OS related problem to a friend
+
+ZCZC W08 20 L22 Quiz 8 WEEK 07
+ZCZC W08 100 L02 WEEK 08 OS ZOOM meetings
+ZCZC W08 100 L09 WEEK 08 Assignment No 1 Read OSC10 chapter 5
+ZCZC W08 90 L09 WEEK 08 Assignment No 2 Try Demos
+ZCZC W08 60 L09 WEEK 08 Assignment No 3 Try MidTerm Problems
+ZCZC W08 15 L09 WEEK 08 Assignment No 4 Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 15 L09 WEEK 08 Assignment No 5 Linux From Scratch 11.0 Chapter 05
+ZCZC W08 05 L04 Improving GitHub Pages
+ZCZC W06 10 L09 WEEK 06 Assignment No 6 Update bookmarks links
+ZCZC W08 10 L09 WEEK 08 Assignment No 8 Review peer links
+ZCZC W08 10 L09 WEEK 08 Assignment No 9 Updated mylog.txt
+ZCZC W08 40 L02 WEEK 08 OS ZOOM meetings (QnA sessions)
+ZCZC W08 10 L09 WEEK 08 Assignment No 10 Submit WEEK 08 Assignment
+ZCZC W08 30 L64 Helping OS related problem to a friend
