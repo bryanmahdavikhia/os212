@@ -59,3 +59,7 @@ Pada minggu ini kita belajar tentang Synchronization & Deadlock pada Operating S
 ## WEEK 08
 ### 16. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html)
 Pada minggu ini kita belajar tentang CPU Scheduling. Link ini menjelaskan tentang CPU Scheduling secara lengkap<br>dan padat. Menurut saya link ini sangat berguna untuk memahami CPU Scheduling
+
+## WEEK 09
+### 17. [System Boot Manager](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)
+Pada minggu ini kita belajar Bootloader. Saya membaca link ini dan menjadi tahu apa itu bootloader.
